@@ -1,5 +1,16 @@
 # 🔍 Askurl Chrome Extension
 
+## 📹 Demo Video
+
+Watch the demo video to see Askurl in action:
+
+<video width="600" controls>
+  <source src="assets/askurl.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+
+
+
 ## 📖 Overview
 
 Askurl is a powerful Chrome extension that allows users to ask questions about selected text on any webpage and receive AI-generated answers. It leverages the OpenAI API to provide context-aware responses, enhancing your browsing experience with instant information retrieval.
