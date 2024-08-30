@@ -1,16 +1,5 @@
 # 🔍 Askurl Chrome Extension
 
-## 📹 Demo Video
-
-Watch the demo video to see Askurl in action:
-
-<video width="600" controls>
-  <source src="assets/askurl.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
-
-
-
 ## 📖 Overview
 
 Askurl is a powerful Chrome extension that allows users to ask questions about selected text on any webpage and receive AI-generated answers. It leverages the OpenAI API to provide context-aware responses, enhancing your browsing experience with instant information retrieval.
@@ -36,9 +25,9 @@ Askurl is a powerful Chrome extension that allows users to ask questions about s
 
 1. Click on the Askurl icon in the Chrome toolbar
 2. Select "Options" from the dropdown menu
-3. Enter your OpenAI API key in the provided field
-   - 🔑 [Get your OpenAI API key](https://platform.openai.com/api-keys)
-4. Click "Save" to store your API key securely
+3. Get your OpenAI API key [here](https://platform.openai.com/api-keys)
+4. Enter your OpenAI API key in the provided field
+5. Click "Save" to store your API key securely
 
 ## 🚀 Usage
 
