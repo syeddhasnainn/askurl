@@ -12,6 +12,7 @@ Askurl is a powerful Chrome extension that allows users to ask questions about s
 - 🎨 Modern and user-friendly interface
 - ⚙️ Customizable OpenAI API key through options page
 
+
 ## 🛠️ Installation
 
 1. Clone this repository or download the ZIP file
@@ -25,6 +26,7 @@ Askurl is a powerful Chrome extension that allows users to ask questions about s
 1. Click on the Askurl icon in the Chrome toolbar
 2. Select "Options" from the dropdown menu
 3. Enter your OpenAI API key in the provided field
+   - 🔑 [Get your OpenAI API key](https://platform.openai.com/api-keys)
 4. Click "Save" to store your API key securely
 
 ## 🚀 Usage
