@@ -4,7 +4,7 @@
   "description": "Askurl is a tool that allows you to ask questions about a URL and get answers from the page.",
   "version": "1.0",
   "action": {
-    "default_popup": "src/popup/popup.html"
+    "default_popup": "src/sidebar/sidebar.html"
   },
   "background": {
     "service_worker": "src/background/background.js"
@@ -16,7 +16,8 @@
       "suggested_key": {
         "default": "Ctrl+B",
         "mac": "Command+B"
-      }
+      },
+      "description": "Open Askurl"
     }
   },
   "options_page": "src/options/options.html",
